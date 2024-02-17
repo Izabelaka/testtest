@@ -137,7 +137,7 @@ body {
 
   &__logo {
     position: fixed;
-    top: 0;
+    top: 20px;
     left: 20px;
     font-family: "Anton", sans-serif;
     display: flex;
@@ -145,7 +145,8 @@ body {
     z-index: 100;
 
     img {
-      max-width: 150px;
+      max-width: 100px;
+      //   height: 40px;
     }
   }
 

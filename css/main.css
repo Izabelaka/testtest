@@ -353,7 +353,7 @@ body {
 }
 .nav-mobile__logo {
   position: fixed;
-  top: 0;
+  top: 20px;
   left: 20px;
   font-family: "Anton", sans-serif;
   display: flex;
@@ -361,7 +361,7 @@ body {
   z-index: 100;
 }
 .nav-mobile__logo img {
-  max-width: 150px;
+  max-width: 100px;
 }
 .nav-mobile__logo a {
   position: absolute;
